@@ -10,6 +10,12 @@ struct character
 
 }p,v;
 
+
+
+
+
+
+
 int main()
 {
     printf("Lord Voldemort:\n");
